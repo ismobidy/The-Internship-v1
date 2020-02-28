@@ -5,8 +5,8 @@ ___
 Name <br/>
 Track
 ___
-Name <br/>
-Track
+Olaribigbe Isamil<br/>
+Frontend Web ReactJS
 ___
 Name <br/>
 Track
